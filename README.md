@@ -193,7 +193,7 @@ git commit -m "Initial commit: golang s3 microservices demo"
 
 ```bash
 # replace origin URL with your repo
-git remote add origin git@github.com:youruser/golang-s3-microservices.git
+git remote add origin git@github.com:AzozzALFiras/golang-s3-microservices.git
 git branch -M main
 git push -u origin main
 ```
